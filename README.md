@@ -18,11 +18,11 @@
   - [ ] Consume message pet creation - log it
   - [ ] Add new value for pet creation and version the schema
   - [ ] Whicj serialization protocols exits? Apply them all (pros/cons of each)
-- Security
+- [ ] Security
   - [ ] Add authentication to endpoints
   - [ ] Add authorization to endpoints
   - [ ] Which auth protocols exits? Apply them all (pros/cons of each)
-- Performance
+- [ ] Performance
   - [ ] How to use a profiler
   - [ ] Research performance tips
   - [ ] Optimize time execution of endpoints
